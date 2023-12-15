@@ -8,3 +8,10 @@ def fatorial(n):
 
 # Teste
 print(f'\n {64}! = {fatorial(64)}')
+
+def  fatoria_recursivo(num):
+    if num > 1
+        fat = num * fatoria_recursivo(num -1)
+        return fat
+    else:
+        return 1
